@@ -1,0 +1,9 @@
+uuid: 46aa78df-1ee2-4463-b4fc-8a5df64f3ccd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PYQUh5ztBjZtHglNbvgQ3QhzPR8gJI8bWiJz9EnY7Gg
+name: xs
+label: 'Extra small devices'
+breakpoint: 480
