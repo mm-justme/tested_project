@@ -85,8 +85,8 @@ error.log
 
 # Ignoring of node packages used for pre-commits (GrumPHP)
 node_modules/
-package-lock.json
-package.json
+#package-lock.json
+#package.json
 
 # Ignore the export/import content deirectory
 /web/modules/custom/cs_mechanism/scs-export/
